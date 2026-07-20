@@ -4,7 +4,7 @@ An interactive Google Sheets tool that calculates each person’s share of a res
 
 ## Try the Tool
 
-- [Open the live view-only Google Sheet](https://docs.google.com/spreadsheets/d/1maEiMfISzTgaPLqF-Qe0MvQ2Mg-SPyK-KDXCrNIh5d4/edit?usp=sharing)
+- [Open the live view-only Google Sheet](https://docs.google.com/spreadsheets/d/1-0OEzfQvqdNhFLnmtaB4zBMDblBRe6JLSUiSj21d2SE/edit?usp=sharing)
 - [Download the Excel version](bill-splitter.xlsx)
 
 
