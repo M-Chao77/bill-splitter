@@ -2,9 +2,11 @@
 
 An interactive Google Sheets tool that calculates each person’s share of a restaurant bill by distributing tax and tip proportionally based on what they ordered.
 
-## Live Spreadsheet
+## Try the Tool
 
-[Open the live view-only Google Sheet](https://docs.google.com/spreadsheets/d/1maEiMfISzTgaPLqF-Qe0MvQ2Mg-SPyK-KDXCrNIh5d4/edit?usp=sharing)
+- [Open the live view-only Google Sheet](https://docs.google.com/spreadsheets/d/1maEiMfISzTgaPLqF-Qe0MvQ2Mg-SPyK-KDXCrNIh5d4/edit?usp=sharing)
+- [Download the Excel version](bill-splitter.xlsx)
+
 
 ## About This Project
 
