@@ -57,4 +57,4 @@ For example, someone responsible for 20% of the group subtotal is also responsib
 
 ## Project Preview
 
-A screenshot of the completed bill splitter will be added here.
+[Screenshot of the Bill Splitter](bill-splitter-overview.png)
